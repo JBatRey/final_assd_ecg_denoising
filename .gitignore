@@ -1,0 +1,14 @@
+
+red neuronal/modelo_bueno/
+
+*.npy
+
+*.h5
+
+temp.ipynb
+
+output.png
+
+output2.png
+
+wavelets/hr/
